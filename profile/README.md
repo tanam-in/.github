@@ -43,7 +43,12 @@ For more detail, please check [this repository](https://github.com/tanam-in/ml-t
 ## Installation
 Our application is based on Android OS. In order to use our application, you will need an Android device that can runs at least Android OS Version 6.0 (Marshmallow). You can download our application (.apk) from the link down below.
 ```bash
-https://google.com
+https://drive.google.com/file/d/1b3p3ZDP94l2zBzKaxIzIpKa_6zYrgukr/view?usp=sharing
+```
+
+The prototype design of this application is based on Figma. If you want to see the prototype design of this application, you can access it using the link provided below.
+```bash
+https://www.figma.com/proto/nOYEe4laacOdBcDxOAvVr1/Tanam.in?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2
 ```
 
 ## Contributing
